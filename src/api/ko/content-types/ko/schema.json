@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "kos",
+  "info": {
+    "singularName": "ko",
+    "pluralName": "kos",
+    "displayName": "ko"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "kkoko": {
+      "type": "string"
+    }
+  }
+}
